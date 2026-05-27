@@ -6,6 +6,7 @@
 - 📫 If you want to reach me, simply send a message here, and most likely, I will be genuinely glad to hear.
 
 # Current publications:
-* **2025, ICCAI** - [*Smart-Init of neural networks*](https://github.com/DavidDenisov/Smart-Init).
-* **2024, CSCML** - [*Provable Imbalanced Point Clustering*](https://github.com/DavidDenisov/ImbalancedClustering). Also part of **Volume 15349 of the Lecture Notes in Computer Science series**.
+* **2026, WALCOM** -[*Linear time small coresets for k-mean clustering of segments with applications*](https://link.springer.com/chapter/10.1007/978-981-95-7127-7_8)
+* **2025, ICCAI** - [*Smart-Init of neural networks*](https://doi.ieeecomputersociety.org/10.1109/ICCAI66501.2025.00047).
+* **2024, CSCML** - [*Provable Imbalanced Point Clustering*]([https://github.com/DavidDenisov/ImbalancedClustering](https://link.springer.com/chapter/10.1007/978-3-031-76934-4_5)). Also part of **Volume 15349 of the Lecture Notes in Computer Science series**.
 * **2023, CSCML, PhD track**- *Real-time video tracking on small single-board computers (SBCs); Technical Report*.
